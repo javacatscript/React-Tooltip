@@ -1,0 +1,44 @@
+/* tooltip container  */
+
+.div_tooltip{
+    background-color: rgb(131, 33, 197);
+    height: 25px;
+    width: 155px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+/* tooltip text  */
+
+.div_tooltip p {
+    margin: 2px 0px;
+    padding: 0;
+    font-size: 0.9rem;
+    color: white;
+    letter-spacing: 0.05rem;
+}
+
+/* css for tooltip positons  */
+.top {
+    position: absolute;
+    top: -28px;
+    left: 35px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 35px;
+}
+
+.left {
+    position: absolute;
+    left: -165px;
+    top: 10px;
+}
+
+.right {
+    position: absolute;
+    right: -155px;
+    top: 10px;
+}

@@ -1,0 +1,55 @@
+/* buttons container div */
+
+.div_buttons{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    margin: 20px auto;
+}
+
+/* styling individual buttons  */
+
+.div_buttons button {
+    width: 90px;
+    height: 30px;
+    font-size: 0.8rem; 
+    font-weight: 700;
+    background-color: rgb(47, 47, 48);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    letter-spacing: 0.05rem;
+}
+
+.div_buttons button:hover{
+    cursor: pointer;
+    background-color: rgb(131, 33, 197);
+    letter-spacing: 0.1rem;
+}
+
+.div_buttons button:focus{
+    background-color: rgb(131, 33, 197);
+}
+
+/* main container div */
+
+.div_container {
+    width: 240px; 
+    margin: 200px auto;
+    height: 80px;
+    position: relative;
+}
+
+.div_container:hover {
+    cursor: pointer;
+}
+
+/* message div  */
+
+.div_message{
+    margin: 0;
+}
+
+.div_message h1{
+    margin: 0;
+}
