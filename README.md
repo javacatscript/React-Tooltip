@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tool-tip
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Position your tooltip as per your wish on the click of a button. 
 
 ## Available Scripts
 
