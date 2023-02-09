@@ -1,6 +1,6 @@
 # Tool-tip
 
-Position your tooltip as per your wish on the click of a button. Check out - tooltip-position.netlify.app
+Position your tooltip as per your wish on the click of a button -- https://tooltip-position.netlify.app/
 
 ## Available Scripts
 
